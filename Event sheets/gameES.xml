@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>gameES</name>
+    <events>
+        <variable constant="0" name="dialog" sid="263182476324476" static="0" type="number">0</variable>
+        <event-block sid="573832844282171">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="144592175240496" type="System" />
+            </conditions>
+            <actions />
+        </event-block>
+    </events>
+</c2eventsheet>
